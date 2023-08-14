@@ -1783,8 +1783,8 @@ a {
   background-image: url("../../../assets/images/pose-50-2079x2079.jpeg");
 }
 .cid-tMRnbhxDge .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.1;
+  background-color: #000000;
+  opacity: 0.3;
 }
 .cid-tMRnbhxDge form .mbr-section-btn {
   text-align: center;
